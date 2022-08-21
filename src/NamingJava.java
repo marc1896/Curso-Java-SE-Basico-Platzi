@@ -1,3 +1,4 @@
+            //Upper Camel Case
 public class NamingJava {
     public static void main(String[] args) {
         int celphone = 33337777;
@@ -11,6 +12,9 @@ public class NamingJava {
 
         String currency$ = "MXN";
         String background_color = "Blue";
-        
+
+        //Lower Camel Case
+        String fullName = "Marco Anotonio Hernandez Osorio";
+        int sizeInCentimeters = 26;
     }
 }
